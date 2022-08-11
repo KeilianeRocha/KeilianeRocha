@@ -10,7 +10,7 @@
 <div>
   <img src = "https://github-readme-stats.vercel.app/api?username=KeilianeRocha&show_icons=true&theme=synthwave&hide" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=KeilianeRocha&theme=synthwave&hide_border=false" width = 400>
-   <img align="right" alt="Keila-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/55c7bb5bc14f5eba1bf07e241c5738ab.gif?width=676&height=676">
+  <img align="right" alt="Keila-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/55c7bb5bc14f5eba1bf07e241c5738ab.gif?width=676&height=676">
 </div> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Keila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
