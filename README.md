@@ -1,4 +1,12 @@
 ---
+<img align="center" alt="Keila-pic" width="950" height="225" style="radius:600px;" src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif?width=676&height=676">
+
+
+
+
+
+
+
 
 ## Olá!👋 Eu sou a Keiliane Rocha
 
