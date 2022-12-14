@@ -1,6 +1,6 @@
   <img align="center" alt="Keila-pic" width="1200" height="225" style="radius:600px;" src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif?width=676&height=676">
 
- # Hi 👋, I'm  [Keiliane Rocha](https://www.linkedin.com/in/keilianesrocha/) 
+ # Hi, 👋 I'm  [Keiliane Rocha](https://www.linkedin.com/in/keilianesrocha/) 
  
 
   <img align="right" alt="Keila-pic" width="300" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?width=676&height=676">
