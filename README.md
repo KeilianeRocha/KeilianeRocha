@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Testing techniques and test automation tools**
 
-- ⚡ Fun fact **I love cats**
+- ⚡ Fun fact **I love cats** and also am a **resident of [asgardia](https://asgardia.space/en/)
 ##
 <p> 
 <h3 align="left">Connect with me:</h3>
