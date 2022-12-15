@@ -5,14 +5,18 @@
 
   <img align="right" alt="Keila-pic" width="300" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?width=676&height=676">
   
-  
+
 - 🔭 I’m currently working on **Sales Analyst**
 
 - 🌱 I’m currently learning **Test Automation with Selenium WebDriver and Java, Java and SQL**
 
 - 💬 Ask me about **Testing techniques and test automation tools**
 
-- ⚡ Fun fact **I love cats** and also am an **[Asgardian](https://asgardia.space/en/)**
+- ⚡ Fun fact **I love** 🐱 and also am an [Asgardian](https://asgardia.space/en/")  🌠🪐 ☄️ 🖖.
+  
+  
+                   
+                   
 ##
 <p> 
 <h3 align="left">Connect with me:</h3>
