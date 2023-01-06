@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Testing techniques and test automation tools**
 
-- ⚡ Fun fact **I love** 🐱 and also am an [Asgardian](https://asgardia.space/en/")  🌠🪐 ☄️ 🖖.
+- ⚡ Fun fact **I love** 🐱 and also am an [Asgardian](https://asgardia.space/en/)  🌠🪐 ☄️ 🖖.
   
   
                    
