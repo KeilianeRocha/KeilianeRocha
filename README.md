@@ -6,9 +6,9 @@
   <img align="right" alt="Keila-pic" width="300" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?width=676&height=676">
   
 
-- 🔭 I’m currently working on **Sales Analyst**
+- 🔭 I’m currently working as **Sales Analyst**
 
-- 🌱 I’m currently learning **Test Automation with Selenium WebDriver and Java, Java and SQL**
+- 🌱 I’m currently learning **Test Automation with Selenium WebDriver, and Java, Java and SQL**
 
 - 💬 Ask me about **Testing techniques and test automation tools**
 
