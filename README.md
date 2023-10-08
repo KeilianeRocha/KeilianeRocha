@@ -7,6 +7,16 @@
 - 💬 Ask me about **Testing techniques and test automation tools**
 - ⚡ Fun fact **I love** 🐱 and also am an [Asgardian](https://asgardia.space/en/) 🌠🪐 ☄️ 🖖.
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keiliane Rocha's GitHub Status</title>
+</head>
+<body>
+
 <div>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
@@ -15,7 +25,7 @@
         </a>
         <a href="https://www.instagram.com/keilianrocha/" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/keilianrocha/" height="30" width="40" />
-        </a> 
+        </a>
     </p>
     <h3 align="left">Languages:</h3>
     <p>
@@ -48,11 +58,13 @@
             <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="30"/>
         </a>
     </p>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=KeilianeRocha&show_icons=true&theme=synthwave&hide" width="400">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=KeilianeRocha&theme=synthwave&hide_border=false" width="400">
-    </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeilianeRocha&layout=compact&theme=synthwave" alt="Keiliane Rocha's Top Languages" width="300" height="400">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=KeilianeRocha&theme=synthwave&hide_border=false" alt="Keiliane Rocha's Streak Stats" width="300" height="400">
 </div>
+
+</body>
+</html>
+
 
                    
 
