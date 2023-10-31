@@ -57,8 +57,7 @@
             <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="30"/>
         </a>
     </p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeilianeRocha&layout=compact&theme=synthwave" alt="Keiliane Rocha's Top Languages" width="300" height="400">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=KeilianeRocha&theme=synthwave&hide_border=false" alt="Keiliane Rocha's Streak Stats" width="300" height="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeilianeRocha&layout=compact&theme=synthwave" alt="Keiliane Rocha's Top Languages" width="350" height="550">
 </div>
 
 </body>
