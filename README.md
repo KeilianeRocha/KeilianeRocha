@@ -27,12 +27,6 @@
 - 🎮 Gamer
 - 🐾🐾 🐾🐾 **Cat Lover** 😺
 
-
- 
-
-
-
-
 <details>
 
 <summary>My GitHub Stats</summary>
