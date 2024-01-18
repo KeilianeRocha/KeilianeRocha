@@ -17,6 +17,10 @@
 - 🎮 Gamer
 - 🐾🐾 🐾🐾 **Cat Lover** 😺
 - 🌠🪐 ☄️ 🖖 [Asgardian](https://asgardia.space/en/)
+  
+##
+
+> "And God said, 'Let there be light,' and there was light. **And God saw that the light was good**. And God separated the light from the darkness." - Genesis 1:3 (ESV)
 
 ##
 
