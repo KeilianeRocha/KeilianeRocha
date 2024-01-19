@@ -5,7 +5,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/keilianesrocha/) ° 
 [![GitHub followers](https://img.shields.io/github/followers/KeilianeRocha?style=social)](https://github.com/KeilianeRocha) °
-[![Seguir no Spotify](https://img.shields.io/badge/Seguir-no%20Spotify-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/31vb3x4i3dumisg3msgsc4hndsgm)
+[![Spotify Profle](https://img.shields.io/badge/Spotify-%20Profile-green?style=social&logo=spotify)](https://open.spotify.com/user/31vb3x4i3dumisg3msgsc4hndsgm)
 
 </div>
 
