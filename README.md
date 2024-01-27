@@ -4,8 +4,10 @@
 <div align="right">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/keilianesrocha/) ° 
+[![Spotify Profle](https://img.shields.io/badge/Spotify-%20Profile-green?style=social&logo=spotify)](https://open.spotify.com/user/31vb3x4i3dumisg3msgsc4hndsgm) °
 [![GitHub followers](https://img.shields.io/github/followers/KeilianeRocha?style=social)](https://github.com/KeilianeRocha) °
-[![Spotify Profle](https://img.shields.io/badge/Spotify-%20Profile-green?style=social&logo=spotify)](https://open.spotify.com/user/31vb3x4i3dumisg3msgsc4hndsgm)
+[![Profile views](https://komarev.com/ghpvc/?username=KeilianeRocha&color=2d333b&style=flat)](https://github.com/keilianesrocha)
+
 
 </div>
 
@@ -28,7 +30,7 @@
 <summary>My GitHub Stats</summary>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KeilianeRocha&theme=default_repocard&show_icons=true&bg_color=2d333b&text_color=c9d1d9" alt="Meus Status" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KeilianeRocha&theme=default_repocard&show_icons=true&bg_color=2d333b&text_color=c9d1d9" alt="Meus Status" /> 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeilianeRocha&layout=compact&theme=default_repocard&bg_color=2d333b&text_color=c9d1d9" alt="Minhas Top Linguagens" />
 </div>
 
