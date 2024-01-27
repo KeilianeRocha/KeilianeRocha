@@ -27,9 +27,10 @@
 <details>
 <summary>My GitHub Stats</summary>
   
-![Keiliane's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeilianeRocha&theme=default_repocard&show_icons=true&bg_color=2d333b&text_color=c9d1d9)
-
-
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KeilianeRocha&theme=default_repocard&show_icons=true&bg_color=2d333b&text_color=c9d1d9" alt="Meus Status" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeilianeRocha&layout=compact&theme=default_repocard&bg_color=2d333b&text_color=c9d1d9" alt="Minhas Top Linguagens" />
+</div>
 
 
 
